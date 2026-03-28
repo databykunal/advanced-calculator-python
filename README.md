@@ -1,5 +1,3 @@
-# advanced-calculator-python
-A command-line based advanced calculator built using Python with support for multiple operations and dynamic inputs.
 # 🧮 Advanced Calculator (Python)
 
 A command-line based advanced calculator built using Python that supports multiple operations and dynamic user inputs.
